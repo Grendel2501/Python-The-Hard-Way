@@ -1,0 +1,6 @@
+nose.egg-info/PKG-INFO
+nose.egg-info/SOURCES.txt
+nose.egg-info/dependency_links.txt
+nose.egg-info/entry_points.txt
+nose.egg-info/not-zip-safe
+nose.egg-info/top_level.txt
